@@ -44,6 +44,7 @@ fn main() {
 
             },
 
+            // All other events lead to nothing
             _ => {}
         }
     });
